@@ -37,7 +37,7 @@ CPP-OOP-Calculator/
 
 Step-1: Clone the repository:
 
-git clone https://github.com/your-username/CPP-OOP-Calculator.git
+git clone https://github.com/pdiya1710/CPP-OOP-Calculator.git
 
 Step-2: Compile the program:
 
